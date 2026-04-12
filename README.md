@@ -89,7 +89,7 @@ Create your own account to keep your job search organized and private.
 
 - **Built With**: HTML5, JavaScript, Tailwind CSS
 - **Data Source**: Adzuna API (South Africa job market)
-- **Hosting**: GitHub Pages
+- **Hosting**: Netlify
 - **Storage**: Browser localStorage for user data
 
 ### **Running Locally**
